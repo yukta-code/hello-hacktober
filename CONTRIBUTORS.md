@@ -72,4 +72,8 @@
 - Place: Delhi, India
 - Bio: I am a second year computer science and Engineering student currently exploring AI and sparks AR.
 - GitHub: [yupitsadi](https://github.com/yupitsadi)
-
+- 
+#### Name: [Yukta](https://github.com/yukta-code)
+- Place: Delhi, India
+- Bio: I am a third year Information Technology student currently exploring full stack web development.
+- GitHub: [yukta-code](https://github.com/yukta-code)
